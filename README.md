@@ -46,8 +46,6 @@
 
 ###
 
-<p align="left">My name is Vega Nahuel, I am currently in my last year of high school, I have been studying programming for 2 years, I am learning several languages ​​and I would like to continue learning.</p>
-
 ## 🐍 Pacman
 
 ![Pacman](https://raw.githubusercontent.com/veganahueel/veganahueel/output/pacman.svg)
