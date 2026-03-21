@@ -45,8 +45,3 @@
 </picture>
 
 ###
-
-## 🐍 Pacman
-
-![Pacman](https://raw.githubusercontent.com/veganahueel/veganahueel/output/pacman.svg)
-###
